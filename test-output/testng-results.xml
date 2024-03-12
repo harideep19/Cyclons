@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T20:49:40 IST" name="Default suite" finished-at="2024-03-04T20:50:09 IST" duration-ms="28968">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T20:49:40 IST" name="Default test" finished-at="2024-03-04T20:50:09 IST" duration-ms="28968">
+      <class name="Testcase.TC_01_register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcase.TC_01_register@76505305]" started-at="2024-03-04T20:49:40 IST" name="setup" finished-at="2024-03-04T20:49:58 IST" duration-ms="17385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="register()[pri:0, instance:Testcase.TC_01_register@76505305]" started-at="2024-03-04T20:49:58 IST" name="register" finished-at="2024-03-04T20:50:08 IST" duration-ms="10083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcase.TC_01_register@76505305]" started-at="2024-03-04T20:50:08 IST" name="close" finished-at="2024-03-04T20:50:09 IST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcase.TC_01_register -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

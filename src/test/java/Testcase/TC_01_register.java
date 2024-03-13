@@ -18,10 +18,6 @@ public class TC_01_register extends Baseclass1 {
 		Register rg = new Register(driver);
 		
 		Registeconforim rc = new Registeconforim(driver);
-		
-		
-			
-		
 		hp.click_register();
 		Thread.sleep(5000);
 		rg.name();
